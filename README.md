@@ -38,6 +38,7 @@ Cloning Github Repo:
 Installing without Github:
 
 1. Download the Zip of the Repo
+![](https://github.com/Coggroach/SpiderJockey/blob/master/Misc/Zipdownload.PNG)
 2. Extract to the Game Directory of Minecraft
 
 
