@@ -15,5 +15,17 @@ Install Instructions:
 7. Make sure the Forge Profile is Loaded (Allocate more Ram if needed)
 8. Run Minecraft - Multiplayer etc
 
+Downloading Github:
+
+1. https://windows.github.com/
+2. Create an Account.
+
+Cloning Github Repo:
+
+1. Go to website (this page) and find the Clone Repo button
+2. This should Launch the Github Client, if not manually launch Github and try again.
+3. Clone to a Directory that you'll also be using for the Minecraft Game Directory (Some random folder somewhere).
+
+
 
 
