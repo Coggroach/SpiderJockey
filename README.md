@@ -23,8 +23,10 @@ Downloading Github:
 Cloning Github Repo:
 
 1. Go to website (this page) and find the Clone Repo button
+![](https://github.com/Coggroach/SpiderJockey/blob/master/Misc/Webpage.PNG)
 2. This should Launch the Github Client, if not manually launch Github and try again.
 3. Clone to a Directory that you'll also be using for the Minecraft Game Directory (Some random folder somewhere).
+![](https://github.com/Coggroach/SpiderJockey/blob/master/Misc/GithubClient.PNG)
 
 
 
