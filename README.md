@@ -8,12 +8,18 @@ Install Instructions:
 1. Download the Minecraft Launcher and Install.
 2. Log in and Install Vanilla 1.7.10 (Edit Profile Option)
 3. Run the forge-1.7.10-10.13.2.1291-installer.jar
+	-This is Location in the Repo\Root
 4. Install Forge to Appdata (The Default)
 5. Restart the Minecraft Launcher
 6. Edit Profile and Change the Game Directory to the Location of the Git Repo.
 ![](https://github.com/Coggroach/SpiderJockey/blob/master/Misc/Launcher.jpg)
 7. Make sure the Forge Profile is Loaded (Allocate more Ram if needed)
 8. Run Minecraft - Multiplayer etc
+
+For Shaders and ResourcePacks:
+
+-Instead of using the "master" branch switch to the "Ultra" branch.
+-This adds some more ClientSide Mods too.
 
 Downloading Github:
 
@@ -28,6 +34,10 @@ Cloning Github Repo:
 3. Clone to a Directory that you'll also be using for the Minecraft Game Directory (Some random folder somewhere).
 ![](https://github.com/Coggroach/SpiderJockey/blob/master/Misc/GithubClient.PNG)
 
+Installing without Github:
+
+1. Download the Zip of the Repo
+2. Extract to the Game Directory of Minecraft
 
 
 
