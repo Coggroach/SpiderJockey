@@ -2,6 +2,7 @@
 ![](https://github.com/Coggroach/SpiderJockey/blob/master/Misc/Logo.jpg)
 
 IP Address: 89.100.79.121:25565
+ModPack Version: 1.0.1
 
 Install Instructions:
 
