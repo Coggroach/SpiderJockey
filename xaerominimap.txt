@@ -25,9 +25,9 @@ otherColor:5
 mapSafeMode:false
 minimapOpacity:100.0
 antiAliasing:true
-interface::0:0:true:false:false
-interface::0:10000:true:false:false
-interface::0:0:false:false:true
+interface::0:36:true:false:false
+interface::0:36:true:false:false
+interface::0:36:true:false:false
 interface::0:36:true:false:false
 interface:gui.xaero_minimap:0:0:false:false:false
 key_gui.xaero_toggle_map:35

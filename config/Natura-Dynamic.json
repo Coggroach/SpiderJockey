@@ -16,10 +16,13 @@
     "Natura TE4 Compatibility": {
       "enabled": true
     },
-    "Natura Waila Compatibility": {
+    "Natura FMP Compatibility": {
       "enabled": true
     },
-    "Natura FMP Compatibility": {
+    "Natura TreeCapitator Compatibility": {
+      "enabled": true
+    },
+    "Natura Waila Compatibility": {
       "enabled": true
     }
   }
